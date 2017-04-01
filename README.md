@@ -2,7 +2,7 @@
 
 ## Install BOT TABCHI
 ```bash
-git clone https://github.com/MeGaReborn/Tabchi.git && cd Tabchi && chmod 777 install.sh && chmod 777 telegamer.sh && ./install.sh && lua creator.lua
+git clone https://github.com/MeGaReborn/Tabchi.git && cd Tabchi && chmod 777 install.sh && chmod 777 megacli.sh && ./install.sh && lua creator.lua
 ```
 ## Create a bot!
 ```
