@@ -1,9 +1,8 @@
-# Tabchi V1.0
-Edited and Improved by Mehrpouya
+# Tabchi V3.0
 
-## Install
+## Install BOT TABCHI
 ```bash
-git clone https://github.com/MeGaReborn/Tabchi.git && cd tabchi && chmod 777 install.sh && chmod 777 telegamer.sh && ./install.sh && lua creator.lua
+git clone https://github.com/MeGaReborn/Tabchi.git && cd Tabchi && chmod 777 install.sh && chmod 777 telegamer.sh && ./install.sh && lua creator.lua
 ```
 ## Create a bot!
 ```
@@ -18,7 +17,7 @@ Run : ./tabchi-1.sh
 ```
 Enter your telegram id in "Full Sudo ID" part
 
-## Run
+## Run BOT
 Use `./tabchi-ID.sh` to run your bot normaly or use `screen ./tabchi-ID.sh` for auto launch mode (put tabchi-id in ID part)
 
 ## Autolaunch
